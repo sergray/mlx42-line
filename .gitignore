@@ -1,0 +1,4 @@
+.codegpt
+.vscode
+*.o
+mlx_line
